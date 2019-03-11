@@ -227,4 +227,23 @@ body{
   background-color: beige;
 }
 
+@font-face {
+  font-family:"Party Business", Times, serif;
+  src: url('Party Business.woff');
+  src: url('Party Business.eot'),
+       url('Party Business.ttf');
+}
+
+@font-face {
+  font-family:"AnironC", Times, serif;
+  src: url('AnironC.woff');
+  src: url('AnironC.eot'),
+       url('AnironC.ttf');
+}
+
+@font-face {
+  font-family: "Tengwar Annatar", Times, serif;
+  src: url(Tengwar Annatar.woff);
+  src: url('Tengwar Annatar.eot'),
+       url('Tengwar Annatar.ttf');
 }
