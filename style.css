@@ -243,7 +243,7 @@ body{
 
 @font-face {
   font-family: "Tengwar Annatar", Times, serif;
-  src: url(Tengwar Annatar.woff);
+  src: url('Tengwar Annatar.woff');
   src: url('Tengwar Annatar.eot'),
        url('Tengwar Annatar.ttf');
 }
