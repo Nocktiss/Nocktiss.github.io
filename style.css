@@ -1,15 +1,45 @@
-#navbar{
-  background-color: #FE661D;
-  font-family:"Aniron", Times, serif;
-  }
+@media screen and (max-width: 1600px){
 
-  #navbar a{
-  font-family:"Aniron", Times, serif;
-  font-size: 1em;
-  text-align: center;
-  color: #FFFFFF;
+  header{
+    background-color: #FE661D;
+    font-family:"Aniron", Times, serif;
+    display: flex;
+    }
+
+    .navbar-brand{
+      display: flex;
+      justify-content: start;
+      padding-right: 10%;
+    }
+  @media screen and (max-width: 536px){
+    .navbar-brand{
+      padding: 0;
+      margin: 0; 
+    }
+    
+    #pills{
+      display: flex;
+      justify-content: center;
+    }
   }
   
+    .navbar{
+      display: flex;
+      justify-content: end !important;
+    }
+  
+    #navbar a{
+    font-family:"Aniron", Times, serif;
+    font-size: 1em;
+    text-align: end;
+    color: #FFFFFF;
+    }
+    
+.navbar-toggler{
+  margin-left: 100px;
+}
+
+
   .container{
   background-color: #F5F2EB;
   }
@@ -42,6 +72,7 @@
   #symbol{
   font-family: "Tengwar Annatar", Times, serif;
   color: orangered ;
+  font-size: 20px;
   }
 
 
@@ -110,6 +141,11 @@
   }
 
   /* Hover reaction / Picture DEAD Hobbit------*/
+  .dead{
+    font-family:"Aniron", Times, serif;
+    
+  }
+  
   .hoverDead {
   text-align: center;
   position: relative;
@@ -121,7 +157,7 @@
   }
 
   .hoverDead p.dead{
-  font-size: 50px;
+  font-size: 35px;
   color: rgb(250, 3, 3);
   width: 200px;
   height: 200px;
@@ -130,6 +166,7 @@
   top: 20px;
   left: 18%;
   opacity: 0;
+  border-radius: 18px;
   display: block;
   position: absolute;
   -webkit-transition:.5s ease-in-out;
@@ -154,7 +191,7 @@
   padding: 20px;
   margin: 20px;
   font-family:"Party Business", Times, serif;
-  font-size:2.5em;
+  font-size:2em;
   color: #5D5C57;
   }
   
@@ -178,9 +215,19 @@
     margin-right: auto;
     margin-left: auto;
 }
-  
+
+.hobbit{
+  margin-right: -33px;
+}
+
   .card-body{
   background-color: black;
   font-family:"Party Business", Times, serif;
   color: #FFFFFF;
   }
+
+body{
+  background-color: beige;
+}
+
+}
