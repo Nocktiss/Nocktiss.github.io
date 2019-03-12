@@ -50,7 +50,7 @@
   z-index: 10;
   text-align: center;
   top:9em;
-  font-family:"partybusiness", Times, serif;
+  font-family:"party business", Times, serif;
   color: #FFFFFF;
   }
   
@@ -61,13 +61,13 @@
   }
   
   .carousel-caption p{
-  font-family:"partybusiness", Times, serif;
+  font-family:"party business", Times, serif;
   font-size: 2em;
   text-align: left;
   }
   
   .symbol{
-  font-family:"tengwarannatar", Times, serif;
+  font-family:"tengwar annatar", Times, serif;
   color: orangered ;
   font-size: 20px;
   }
@@ -146,7 +146,7 @@
   .hoverDead {
   text-align: center;
   position: relative;
-  font-family:"partybusiness", Times, serif;
+  font-family:"party business", Times, serif;
   }
 
   .hoverDead:hover p.dead{
@@ -187,7 +187,7 @@
   .badge{
   padding: 20px;
   margin: 20px;
-  font-family:"partybusiness", Times, serif;
+  font-family:"party business", Times, serif;
   font-size:2em;
   color: #5D5C57;
   }
@@ -219,7 +219,7 @@
 
   .card-body{
   background-color: black;
-  font-family:"partybusiness", Times, serif;
+  font-family:"party business", Times, serif;
   color: #FFFFFF;
   }
 
@@ -228,7 +228,7 @@ body{
 }
 
 @font-face {
-  font-family:"partybusiness", Times, serif;
+  font-family:"party business", Times, serif;
   src: url('Font/partybusiness/partybusiness.ttf') format("truetype");
 }
 
@@ -238,6 +238,6 @@ body{
 }
 
 @font-face {
-  font-family:"tengwarannatar", Times, serif;
+  font-family:"tengwar annatar", Times, serif;
   src: url('Font/tengwarannatar/tengwarannatar.ttf') format("truetype");
 }
