@@ -1,6 +1,6 @@
   header{
     background-color: #FE661D;
-    font-family:"Font/anironc", Times, serif;
+    font-family:"Aniron", Times, serif;
     display: flex;
     }
     .navbar-brand{
@@ -26,7 +26,7 @@
     }
   
     #navbar a{
-    font-family:"Font/anironc", Times, serif;
+    font-family:"Aniron", Times, serif;
     font-size: 1em;
     text-align: end;
     color: #FFFFFF;
@@ -50,7 +50,7 @@
   z-index: 10;
   text-align: center;
   top:9em;
-  font-family:"Font/partybusiness", Times, serif;
+  font-family:"Partybusiness", Times, serif;
   color: #FFFFFF;
   }
   
@@ -61,13 +61,13 @@
   }
   
   .carousel-caption p{
-  font-family:"Font/partybusiness", Times, serif;
+  font-family:"Partybusiness", Times, serif;
   font-size: 2em;
   text-align: left;
   }
   
   .symbol{
-  font-family: "Font/tengwarannatar", Times, serif;
+  font-family: "Tengwarannatar", Times, serif;
   color: orangered ;
   font-size: 20px;
   }
@@ -139,14 +139,14 @@
 
   /* Hover reaction / Picture DEAD Hobbit------*/
   .dead{
-    font-family:"Font/anironc", Times, serif;
+    font-family:"Aniron", Times, serif;
     
   }
   
   .hoverDead {
   text-align: center;
   position: relative;
-  font-family:"Font/partybusiness", Times, serif;
+  font-family:"Partybusiness", Times, serif;
   }
 
   .hoverDead:hover p.dead{
@@ -173,21 +173,21 @@
   } 
 
   .fellows h2{
-  font-family:"Font/anironc", Times, serif;
+  font-family:"Aniron", Times, serif;
   font-weight: bold;
   font-size: 25px;
   padding: 30px;
   }
   
   .fellows small{
-  font-family:"Font/anironc", Times, serif;
+  font-family:"Aniron", Times, serif;
   font-weight: bold;
   }
   
   .badge{
   padding: 20px;
   margin: 20px;
-  font-family:"Font/partybusiness", Times, serif;
+  font-family:"Partybusiness", Times, serif;
   font-size:2em;
   color: #5D5C57;
   }
@@ -219,7 +219,7 @@
 
   .card-body{
   background-color: black;
-  font-family:"Font/partybusiness", Times, serif;
+  font-family:"Partybusiness", Times, serif;
   color: #FFFFFF;
   }
 
