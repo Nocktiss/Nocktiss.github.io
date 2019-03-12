@@ -228,17 +228,17 @@ body{
 }
 
 @font-face {
-  font-family:"Font/partybusiness/anironc.ttf", Times, serif;
-  src: url('Font/partybusiness/anironc.ttf');
-  src: url('Font/partybusiness/anironc.ttf'),
-       url('Font/partybusiness/anironc.ttf');
+  font-family:"Font/partybusiness/partybusiness.ttf", Times, serif;
+  src: url('Font/partybusiness/partybusiness.ttf');
+  src: url('Font/partybusiness/partybusiness.ttf'),
+       url('Font/partybusiness/partybusiness.ttf');
 }
 
 @font-face {
-  font-family:"Font/anironc/partybusiness.ttf", Times, serif;
-  src: url('Font/anironc/partybusiness.ttf');
-  src: url('Font/anironc/partybusiness.ttf'),
-       url('Font/anironc/partybusiness.ttf');
+  font-family:"Font/anironc/anironc.ttf", Times, serif;
+  src: url('Font/anironc/anironc.ttf');
+  src: url('Font/anironc/anironc.ttf'),
+       url('Font/anironc/anironc.ttf');
 }
 
 @font-face {
