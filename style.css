@@ -228,16 +228,16 @@ body{
 }
 
 @font-face {
-  font-family:"Font/partybusiness/partybusiness.ttf", Times, serif;
+  font-family:"partybusiness", Times, serif;
   src: url('Font/partybusiness/partybusiness.ttf') format("truetype");
 }
 
 @font-face {
-  font-family:"Font/anironc/anironc.ttf", Times, serif;
+  font-family:"anironc", Times, serif;
   src: url('Font/anironc/anironc.ttf') format("truetype");
 }
 
 @font-face {
-  font-family:"Font/tengwarannatar/tengwarannatar.ttf", Times, serif;
+  font-family:"tengwarannatar", Times, serif;
   src: url('Font/tengwarannatar/tengwarannatar.ttf') format("truetype");
 }
