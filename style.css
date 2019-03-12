@@ -1,6 +1,6 @@
   header{
     background-color: #FE661D;
-    font-family:"anironc", Times, serif;
+    font-family:"anironc";
     display: flex;
     }
     .navbar-brand{
@@ -26,7 +26,7 @@
     }
   
     #navbar a{
-    font-family:"anironc", Times, serif;
+    font-family:"anironc";
     font-size: 1em;
     text-align: end;
     color: #FFFFFF;
@@ -50,24 +50,24 @@
   z-index: 10;
   text-align: center;
   top:9em;
-  font-family:"party business", Times, serif;
+  font-family:"party business";
   color: #FFFFFF;
   }
   
   .carousel-caption h4{
-  font-family:"anironc", Times, serif;
+  font-family:"anironc";
   font-size: 2.5em;
   text-align: left;
   }
   
   .carousel-caption p{
-  font-family:"party business", Times, serif;
+  font-family:"party business";
   font-size: 2em;
   text-align: left;
   }
   
   .symbol{
-  font-family:"tengwar annatar", Times, serif;
+  font-family:"tengwar annatar";
   color: orangered ;
   font-size: 20px;
   }
@@ -139,14 +139,14 @@
 
   /* Hover reaction / Picture DEAD Hobbit------*/
   .dead{
-    font-family:"anironc", Times, serif;
+    font-family:"anironc";
     
   }
   
   .hoverDead {
   text-align: center;
   position: relative;
-  font-family:"party business", Times, serif;
+  font-family:"party business";
   }
 
   .hoverDead:hover p.dead{
@@ -173,21 +173,21 @@
   } 
 
   .fellows h2{
-  font-family:"anironc", Times, serif;
+  font-family:"anironc";
   font-weight: bold;
   font-size: 25px;
   padding: 30px;
   }
   
   .fellows small{
-  font-family:"anironc", Times, serif;
+  font-family:"anironc";
   font-weight: bold;
   }
   
   .badge{
   padding: 20px;
   margin: 20px;
-  font-family:"party business", Times, serif;
+  font-family:"party business";
   font-size:2em;
   color: #5D5C57;
   }
@@ -219,7 +219,7 @@
 
   .card-body{
   background-color: black;
-  font-family:"party business", Times, serif;
+  font-family:"party business";
   color: #FFFFFF;
   }
 
@@ -228,16 +228,16 @@ body{
 }
 
 @font-face {
-  font-family:"party business", Times, serif;
+  font-family:"party business";
   src: url('Font/partybusiness/partybusiness.ttf') format("truetype");
 }
 
 @font-face {
-  font-family:"anironc", Times, serif;
+  font-family:"anironc";
   src: url('Font/anironc/anironc.ttf') format("truetype");
 }
 
 @font-face {
-  font-family:"tengwar annatar", Times, serif;
+  font-family:"tengwar annatar";
   src: url('Font/tengwarannatar/tengwarannatar.ttf') format("truetype");
 }
