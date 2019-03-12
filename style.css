@@ -50,7 +50,7 @@
   z-index: 10;
   text-align: center;
   top:9em;
-  font-family:"Partybusiness", Times, serif;
+  font-family:"Party business", Times, serif;
   color: #FFFFFF;
   }
   
@@ -61,13 +61,13 @@
   }
   
   .carousel-caption p{
-  font-family:"Partybusiness", Times, serif;
+  font-family:"Party business", Times, serif;
   font-size: 2em;
   text-align: left;
   }
   
   .symbol{
-  font-family: "Tengwarannatar", Times, serif;
+  font-family: "Tengwar annatar", Times, serif;
   color: orangered ;
   font-size: 20px;
   }
@@ -146,7 +146,7 @@
   .hoverDead {
   text-align: center;
   position: relative;
-  font-family:"Partybusiness", Times, serif;
+  font-family:"Party business", Times, serif;
   }
 
   .hoverDead:hover p.dead{
@@ -187,7 +187,7 @@
   .badge{
   padding: 20px;
   margin: 20px;
-  font-family:"Partybusiness", Times, serif;
+  font-family:"Party business", Times, serif;
   font-size:2em;
   color: #5D5C57;
   }
@@ -219,7 +219,7 @@
 
   .card-body{
   background-color: black;
-  font-family:"Partybusiness", Times, serif;
+  font-family:"Party business", Times, serif;
   color: #FFFFFF;
   }
 
