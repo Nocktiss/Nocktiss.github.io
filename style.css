@@ -229,21 +229,21 @@ body{
 
 @font-face {
   font-family:"Font/partybusiness", Times, serif;
-  src: url('Font/partybusiness.woff');
-  src: url('Font/partybusiness.eot'),
-       url('Font/partybusiness.ttf');
+  src: url('Font/partybusiness');
+  src: url('Font/partybusiness'),
+       url('Font/partybusiness');
 }
 
 @font-face {
   font-family:"Font/anironc", Times, serif;
-  src: url('Font/anironc.woff');
-  src: url('Font/anironc.eot'),
-       url('Font/anironc.ttf');
+  src: url('Font/anironc');
+  src: url('Font/anironc'),
+       url('Font/anironc');
 }
 
 @font-face {
   font-family:"Font/tengwarannatar", Times, serif;
-  src: url('Font/tengwarannatar.woff');
-  src: url('Font/tengwarannatar.eot'),
-       url('Font/tengwarannatar.ttf');
+  src: url('Font/tengwarannatar');
+  src: url('Font/tengwarannatar'),
+       url('Font/tengwarannatar');
 }
